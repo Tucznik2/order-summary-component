@@ -22,7 +22,7 @@ html {
 body {
   font-size: 1.6rem;
   background: url("images/pattern-background-desktop.svg") no-repeat;
-  background-size: 100% 100%;
+  background-size: contain;
   background-color: var(--primary-pale-blue);
 }
 p {
@@ -32,7 +32,7 @@ p {
 .wrapper {
   display: grid;
   place-items: center;
-  min-height: 98vh;
+  min-height: 96vh;
 }
 .container {
   background-color: white;
@@ -127,6 +127,7 @@ p {
   height: 10%;
   border-radius: 10px;
   font-weight: 700;
+  box-shadow: 0 20px 20px 0 rgb(56 42 225 / 19%);
 }
 .cancel-payment-button {
   border: none;
