@@ -23,14 +23,12 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-Desktop design:
 ![desktop-design](my-design-screenshots/desktop.png)
-Mobile design:
 ![mobile-design](my-design-screenshots/mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/responsive-web-design-mobile-first-css-grid-css-flexbox-Z8SP13R-TM)
 - Live Site URL: [tucznik2.github.io](https://tucznik2.github.io/order-summary-component/)
 
 ## My process
